@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22203
-Fork on GitHub
-7146
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">Hi Everyone 👋, I'm Nishad Bardapurkar</h1>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector in BFSI Domain.</h3>
 
@@ -33,20 +17,6 @@ markdown
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishadsb22&" alt="nishadsb22" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
 About
 More
 Github
